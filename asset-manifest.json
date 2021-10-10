@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hackathon-my-team/static/css/main.89a5a68f.chunk.css",
+    "main.js": "/hackathon-my-team/static/js/main.270493fa.chunk.js",
+    "main.js.map": "/hackathon-my-team/static/js/main.270493fa.chunk.js.map",
+    "runtime-main.js": "/hackathon-my-team/static/js/runtime-main.a162b36a.js",
+    "runtime-main.js.map": "/hackathon-my-team/static/js/runtime-main.a162b36a.js.map",
+    "static/js/2.fba80e54.chunk.js": "/hackathon-my-team/static/js/2.fba80e54.chunk.js",
+    "static/js/2.fba80e54.chunk.js.map": "/hackathon-my-team/static/js/2.fba80e54.chunk.js.map",
+    "index.html": "/hackathon-my-team/index.html",
+    "static/css/main.89a5a68f.chunk.css.map": "/hackathon-my-team/static/css/main.89a5a68f.chunk.css.map",
+    "static/js/2.fba80e54.chunk.js.LICENSE.txt": "/hackathon-my-team/static/js/2.fba80e54.chunk.js.LICENSE.txt",
+    "static/media/addNewMember.eeb5e849.png": "/hackathon-my-team/static/media/addNewMember.eeb5e849.png",
+    "static/media/mainPage.d5fca4a1.png": "/hackathon-my-team/static/media/mainPage.d5fca4a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a162b36a.js",
+    "static/js/2.fba80e54.chunk.js",
+    "static/css/main.89a5a68f.chunk.css",
+    "static/js/main.270493fa.chunk.js"
+  ]
+}
